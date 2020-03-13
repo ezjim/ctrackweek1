@@ -1,5 +1,5 @@
-const Schema = require('./Schema');
-const Model = require('./Model');
+const Schema = require('../lib/Schema');
+const Model = require('../lib/Model');
 
 describe('Model class', () => {
 

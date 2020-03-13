@@ -20,6 +20,8 @@ describe('Model class', () => {
 
     const Dog = new Model('Dog', schema);
 
+
+
     return Dog
       .create({
         name: 'spot',

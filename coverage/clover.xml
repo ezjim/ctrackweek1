@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1583964922048" clover="3.2.0">
-  <project timestamp="1583964922048" name="All files">
-    <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="4" coveredelements="2" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
-    <file name="file-system.js" path="C:\Users\jimmy\alchemy\ctrack401\ctrackweek1\lib\file-system.js">
-      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="0" type="stmt"/>
-    </file>
+<coverage generated="1584132696761" clover="3.2.0">
+  <project timestamp="1584132696761" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
